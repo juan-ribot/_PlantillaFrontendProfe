@@ -8,7 +8,7 @@ __Plantilla Básica para FrontEnd__
 * La definición de las ramas y cambios por versionado, se describirán en este documento.
 
 ---
-_Estructura de Archivos_
+_Estructura de Archivos en la fase inicial_
 ##### CSS
 ` reset.css `
 ` style.css `
