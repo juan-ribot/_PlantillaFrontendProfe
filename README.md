@@ -16,5 +16,6 @@ _Estructura de Archivos en la fase inicial_
 ##### HTML
 ` index.html `
 
-
-
+---
+_Media Queris_
+` media.css `
